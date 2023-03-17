@@ -7,7 +7,9 @@ for Linear Algebra and Analytical Geometry or Calculus study
 
 all commons functions are available to draw on my plotter
 
-A cross platform App project named Tenaz Math Plotter
+A cross platform App project named Tenaz Math Plotter, 
+
+for mobile App the link is here: https://play.google.com/store/apps/details?id=com.zigasistemas.tenazplotter
 
 ![Screenshot](details.jpg)
 
