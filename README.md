@@ -9,6 +9,6 @@ all commons functions are available to draw on my plotter
 
 A cross platform App project named Tenaz Math Plotter
 
-Used tech: Python3, Blender, UPBGE, accelerated by OpenGl
+Used tech: Python3, Blender, UPBGE, accelerated by OpenGL
 
 visit my website too: http://josielsoares.com
