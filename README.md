@@ -15,4 +15,6 @@ for mobile App the link is here: https://play.google.com/store/apps/details?id=c
 
 Used tech: Python3, Blender, UPBGE, accelerated by OpenGL
 
+if you clone this repository then rate with stars please
+
 visit my website too: http://josielsoares.com
